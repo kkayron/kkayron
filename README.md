@@ -92,7 +92,30 @@ const kayron = {
 
 <div align="center">
 
-[![InstaLeads Pro](https://github-readme-stats.vercel.app/api/pin/?username=kkayron&repo=InstaLeads_Pro&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7)](https://github.com/kkayron/InstaLeads_Pro)
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>💎 InstaLeads Pro</h3>
+      <p><strong>Software proprietário de prospecção ativa no Instagram</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Em%20Produção-22c55e?style=for-the-badge&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Tipo-Software%20Proprietário-7C3AED?style=for-the-badge&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Acesso-Privado%20🔒-1f2937?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p>Motor de mineração de leads + CRM integrado + Disparador de DMs com emulação humana.<br/>Arquitetura híbrida: processamento 100% local com validação de licença em nuvem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+      <p><em>💬 Interessado? Fale comigo no Instagram: <a href="https://instagram.com/kkayron.dev">@kkayron.dev</a></em></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
