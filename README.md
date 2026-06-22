@@ -94,25 +94,39 @@ const kayron = {
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
+      <h3>🛡️ SGCEEM v2.0</h3>
+      <p><strong>Action-Driven Command Center para Gestão Militar</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Deploying-3b82f6?style=for-the-badge&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Acesso-Gov%2FMilitar%20🔒-1f2937?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p>Modernização de sistema legado governamental. Arquitetura SPA (React) + API RESTful PHP. Implementação de RLS Virtual Engine e Cockpit Tático Automático.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT_Security-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
+      </p>
+      <p><em>👉 <a href="https://github.com/kkayron/sgceem-v2">Ver Repositório (Privado)</a></em></p>
+    </td>
+    <td align="center" width="50%">
       <h3>💎 InstaLeads Pro</h3>
       <p><strong>Software proprietário de prospecção ativa no Instagram</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Status-Em%20Produção-22c55e?style=for-the-badge&logoColor=white"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Tipo-Software%20Proprietário-7C3AED?style=for-the-badge&logoColor=white"/>
-        &nbsp;
         <img src="https://img.shields.io/badge/Acesso-Privado%20🔒-1f2937?style=for-the-badge&logoColor=white"/>
       </p>
-      <p>Motor de mineração de leads + CRM integrado + Disparador de DMs com emulação humana.<br/>Arquitetura híbrida: processamento 100% local com validação de licença em nuvem.</p>
+      <p>Motor de mineração de leads + CRM integrado + Disparador de DMs com emulação humana. Processamento 100% local com validação em nuvem.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
-      <p><em>💬 Interessado? Fale comigo no Instagram: <a href="https://instagram.com/kkayron.dev">@kkayron.dev</a></em></p>
+      <p><em>💬 Fale comigo no <a href="https://instagram.com/kkayron.dev">Instagram</a></em></p>
     </td>
   </tr>
 </table>
