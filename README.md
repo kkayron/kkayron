@@ -1,8 +1,8 @@
 # Olá, eu sou o Kayron! 👋
 
-### Desenvolvedor Full-Stack | Arquiteto de Software SaaS e Sistemas Táticos
+### Programador do Exército Brasileiro | Desenvolvedor Full-Stack
 
-Sou um desenvolvedor Full-Stack que gosta de resolver problemas complexos do mundo real. Nos últimos anos, tenho me especializado em construir sistemas B2B, plataformas logísticas e aplicações táticas que exigem controle rigoroso de acessos e alta segurança.
+Sou um desenvolvedor Full-Stack e atualmente atuo como Programador no Exército Brasileiro. Gosto de resolver problemas complexos do mundo real e, nos últimos anos, tenho me especializado em construir sistemas corporativos, plataformas logísticas e aplicações táticas que exigem controle rigoroso de acessos e alta segurança.
 
 Meu foco é pegar processos engessados (como planilhas infinitas e rotinas burocráticas) e transformar em aplicações rápidas, com interfaces limpas e direto ao ponto, garantindo que a arquitetura aguente o tranco no dia a dia da operação.
 
