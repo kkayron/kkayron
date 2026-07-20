@@ -33,21 +33,18 @@ Trabalho diretamente com **Multi-Agent Systems** e modelos de fronteira para aut
 
 ---
 
-### 🌐 Conecte-se comigo
+### 📊 Linguagens Dominadas & Métricas
 
-<div>
-  <a href="mailto:kayrondev@email.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/kkayron" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kkayron" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkayron&layout=donut&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkayron&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
-
-<br/>
 
 ---
 
-### 📊 Github Stats
+### 🌐 Contato
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkayron&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkayron&layout=compact&langs_count=7&theme=radical" />
+<div>
+  <a href="mailto:kayrondev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
