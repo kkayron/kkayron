@@ -6,6 +6,16 @@ Sou um engenheiro de software focado em criar soluções B2B escaláveis, sistem
 
 ---
 
+### 🎯 Projetos em Destaque
+
+**🛡️ SecTec (SaaS) - *Em Desenvolvimento***
+> Plataforma Enterprise B2B focada em engenharia técnica e controle militar. Possui arquitetura de segurança reforçada (RBAC profundo), perfis hierárquicos e fluxos isolados de Apropriação, Laboratório, Topografia e Manutenção.
+
+**⛽ SISCOM (Controle de Combustível) - *Concluído***
+> Sistema tático-logístico de alta precisão operacional desenvolvido para eliminar planilhas, operando múltiplos tanques simultâneos. Possui dashboards analíticos dinâmicos, controle de saldos físicos real-time e relatórios gerados em PDF seguindo estritas normas de impressão documental.
+
+---
+
 ### 💻 Linguagens de Programação
 
 <div>
