@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <i><b>"Transformando operações logísticas e processos complexos em sistemas de alto desempenho."</b></i>
+  <i><b>"Transformando operações logísticas, processos complexos e inteligência artificial em sistemas táticos de alto desempenho."</b></i>
 </div>
 
 ---
@@ -13,19 +13,36 @@
 ### 💻 System Terminal: Operação Ativa
 ```bash
 kayron@dev:~$ whoami
-> Kayron - Desenvolvedor Full-Stack especializado em SaaS B2B e Sistemas de Engenharia/Militar.
-kayron@dev:~$ cat core_skills.txt
-> [Next.js] [React] [Node.js] [PHP] [Prisma] [Tailwind] [MySQL] [Google Cloud]
-kayron@dev:~$ ./deploy_vision.sh
-> Construindo soluções minimalistas, focadas em performance, segurança (RBAC) e resiliência offline.
+> Kayron - Desenvolvedor Full-Stack focado em Arquiteturas Escaláveis, SaaS B2B e Sistemas Militares/Engenharia.
+kayron@dev:~$ cat mission.txt
+> Construir soluções minimalistas de alta performance, aliando UI/UX avançada com forte segurança (RBAC) e resiliência offline.
+kayron@dev:~$ ./execute_vision.sh
+> Integrando Inteligência Artificial e Agentes Autônomos (Multi-Agent Systems) aos fluxos de negócios para automação extrema.
 ```
 
 ---
 
 <div align="center">
-  <h2>⚡ Radar de Competências Técnicas</h2>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,mysql,postgres,prisma,tailwind,gcp,docker,nginx,git,linux&theme=dark&perline=10" />
+  <h2>⚡ Tech Stack & Arsenal Logístico</h2>
 </div>
+
+### 🛠️ Linguagens & Frameworks Principais
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,python,html,css,tailwind&theme=dark&perline=10" />
+</p>
+
+### 📚 Bibliotecas & Ferramentas
+> **Frontend:** Zustand (State Management), React Hook Form + Zod (Validações), Recharts (Gráficos Analíticos), Lucide (Iconografia Minimalista), Framer Motion.<br/>
+> **Backend & ORM:** Prisma ORM, JWT (JSON Web Tokens), APIs RESTful, Middleware de Autenticação Segura.<br/>
+> **Infraestrutura:** Google Cloud Platform (GCP), Nginx (Proxy Reverso), Docker, Git/Github.
+
+### 🧠 Inteligência Artificial & LLMs (Large Language Models)
+Trabalho diretamente no desenvolvimento orientado por IA e integração de agentes utilizando os modelos de ponta do mercado:
+- **Anthropic Claude 3.5 Sonnet:** Utilizado para arquitetura de software, geração avançada de código e refatoração de sistemas complexos.
+- **OpenAI GPT-4o / o1:** Raciocínio multi-step, criação de documentações robustas e integrações analíticas.
+- **Google Gemini 1.5 Pro:** Contexto massivo, estruturação de dados em massa e extração de informações de relatórios/planilhas fiscais.
+- **Meta Llama 3 / Open Source:** Testes locais e implementações de inferência otimizada.
+- **Elite Multi-Agent Protocol:** Arquitetura privada onde múltiplos agentes (Engenheiros, Revisores, Arquitetos) interagem de forma colaborativa e autônoma.
 
 ---
 
@@ -36,12 +53,12 @@ kayron@dev:~$ ./deploy_vision.sh
     <tr>
       <td align="center" width="50%">
         <h3>🛡️ SecTec (SaaS)</h3>
-        <p>Plataforma Enterprise / SaaS para gestão técnica e controle militar. Focada em <b>RBAC</b> rigoroso, Engenharia e Operações táticas com alta segurança de rotas.</p>
+        <p>Plataforma Enterprise para gestão técnica e controle de engenharia. Focada em <b>RBAC (Controle de Acessos Rigoroso)</b> e Operações Táticas com rotas altamente seguras e arquitetura de dados inviolável.</p>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkayron&repo=sectec&theme=radical&show_icons=true" />
       </td>
       <td align="center" width="50%">
         <h3>⛽ SISCOM</h3>
-        <p>Sistema de Controle de Combustível logístico avançado, com gestão multi-tanque (dashboard) e relatórios em PDF rigorosamente adaptados para auditoria.</p>
+        <p>Sistema de Controle de Combustível logístico avançado, construído com Next.js e PHP. Possui gestão multi-tanque, cálculos dinâmicos de consumo e relatórios impressos no rígido padrão tático-militar.</p>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkayron&repo=siscom-open-source&theme=radical&show_icons=true" />
       </td>
     </tr>
