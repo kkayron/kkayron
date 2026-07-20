@@ -2,7 +2,9 @@
 
 ### Desenvolvedor Full-Stack | Arquiteto de Software SaaS e Sistemas Táticos
 
-Sou um engenheiro de software focado em criar soluções B2B escaláveis, sistemas de alta resiliência e plataformas táticas (militares e logísticas). Construo arquiteturas complexas focadas em performance extrema, UI limpa e forte segurança (RBAC, PWA, APIs blindadas).
+Sou um desenvolvedor Full-Stack que gosta de resolver problemas complexos do mundo real. Nos últimos anos, tenho me especializado em construir sistemas B2B, plataformas logísticas e aplicações táticas que exigem controle rigoroso de acessos e alta segurança.
+
+Meu foco é pegar processos engessados (como planilhas infinitas e rotinas burocráticas) e transformar em aplicações rápidas, com interfaces limpas e direto ao ponto, garantindo que a arquitetura aguente o tranco no dia a dia da operação.
 
 ---
 
