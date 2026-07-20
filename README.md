@@ -59,8 +59,8 @@ Sou um engenheiro de software focado em criar soluções B2B escaláveis, sistem
 ### 📊 Linguagens Dominadas & Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkayron&layout=donut&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kkayron&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kkayron&layout=donut&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kkayron&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
